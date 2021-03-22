@@ -17,7 +17,7 @@ com a conclusão, referencias bibliográfica que completam o trabalho.
 
 # EngSoftware
 
-files from the software engineering project of the Computer Science Degree course. With the collaboration of Luis fernandes
+files from the software engineering project of the Computer Science Degree course. With the collaboration of Paulo Luis /Luis fernandes
 
 This repository contains: 
 -the report - problem analysis, similar systems, tools/technology used, etc.; 
